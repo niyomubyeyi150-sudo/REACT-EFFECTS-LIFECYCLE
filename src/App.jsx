@@ -68,7 +68,7 @@ function App() {
             React Practice
           </p>
           <h1 className="text-3xl font-bold">
-            Part A: Identify Side Effects
+             Identify Side Effects & Components lifecycle
           </h1>
           <p className="text-sm text-stone-500">
             Classify six examples as pure calculation, event handler or Effect.
